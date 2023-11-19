@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Stanford University</a>
+subtitle: <a href='#'><b>Postdoctoral Scholar, Stanford University</b></a>
 
 profile:
   align: left
@@ -13,9 +13,9 @@ profile:
     <p>Stanford, CA, USA</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
+latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 I am a Postdoctoral Scholar in [Arbabian Lab](https://arbabianlab.stanford.edu) (PI: Prof. Amin Arbarbian) at EE, [**Stanford University**](https://ee.stanford.edu), Stanford, CA, USA. 
