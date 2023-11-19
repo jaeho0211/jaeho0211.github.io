@@ -162,7 +162,11 @@ blockquote {
 // Profile
 
 .profile {
-  width: 100%;
+  //width: 100%;  # JH
+  margin-left: 2.5rem;
+  margin-right: 2.5rem;
+  margin-bottom: 10px;    // add by JH
+  width: 80%;
 
   .more-info {
     margin-bottom: 5px;
@@ -664,7 +668,8 @@ footer.sticky-bottom {
       .preview {
         width: 100%;
         min-width: 80px;
-        max-width: 200px;
+        //max-width: 200px; 
+        max-width: 300px; // JH 
       }
 
       .abbr {
