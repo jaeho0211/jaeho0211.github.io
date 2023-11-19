@@ -18,14 +18,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Scholar in [Arbabian Lab](https://arbabianlab.stanford.edu) (PI: Prof. Amin Arbarbian) at EE, [**Stanford University**](https://ee.stanford.edu), Stanford, CA, USA. 
+I am a Postdoctoral Scholar at <a href='https://ee.stanford.edu'><b>Stanford University</b></a>, advised by <a href='https://arbabianlab.stanford.edu'><b>Prof. Amin Arbabian</b></a>. 
 
-I completed my Ph.D/M.S. at EE, [**POSTECH**](https://eee.postech.ac.kr), Korea (advised by Prof. Kyung-Tae Kim). I did my B.S. at CS, [**Korea University**](https://cs.korea.edu/en_cs/index.do), Korea.
+I completed my PhD and MS in Electrical Engineering, at <a href='https://eee.postech.ac.kr'><b>POSTECH</b></a>, advised by <a href='http://iras.postech.ac.kr/main/eng.php'><b>Prof. Kyung-Tae Kim</b></a>. Before that, I did my undergraduate studies in Computer Science at <a href='https://info.korea.edu/en_info/index.do'><b>Korea University</b></a>.
 
 My research interests lie in **Wireless Sensing with Machine Learning**, including RF-based localization, crowd counting, contactless health monitoring, and SAR-based perception. I am also interested in the **Computer Vision** and **Sensor Fusion** algorithms.
 
-**Contact**
-<jhochoi [at] stanford.edu>  
-<gogoho77 [at] gmail.com>  
+**Contact**<br>
+jhochoi [at] stanford.edu  
+gogoho77 [at] gmail.com  
 
 [CV](https://jhchoi93.github.io/assets/pdf/CV_Jae-Ho-Choi.pdf) / [Google Scholar](https://scholar.google.com/citations?user=ywDewK4AAAAJ%2526hl=en) / [Github](https://github.com/gogoho88)
