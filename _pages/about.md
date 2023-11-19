@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'><b>Postdoctoral Scholar, Stanford University</b></a>
+subtitle: <a href='https://profiles.stanford.edu/jaeho-choi'><b>Postdoctoral Scholar, Stanford University</b></a>
 
 profile:
   align: left
   image: pic_JAEHO_cut.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>EE, Stanford University</p>
     <p>Stanford, CA, USA</p>
