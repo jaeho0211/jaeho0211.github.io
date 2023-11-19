@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Stanford University</a>
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: pic_JAEHO_cut.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>EE, Stanford University</p>
+    <p>Stanford, CA, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Postdoctoral Scholar in [Arbabian Lab](https://arbabianlab.stanford.edu) (PI: Prof. Amin Arbarbian) at EE, [**Stanford University**](https://ee.stanford.edu), Stanford, CA, USA. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my Ph.D/M.S. at EE, [**POSTECH**](https://eee.postech.ac.kr), Korea (advised by Prof. Kyung-Tae Kim). I did my B.S. at CS, [**Korea University**](https://cs.korea.edu/en_cs/index.do), Korea.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests lie in **Wireless Sensing with Machine Learning**, including RF-based localization, crowd counting, contactless health monitoring, and SAR-based perception. I am also interested in the **Computer Vision** and **Sensor Fusion** algorithms.
