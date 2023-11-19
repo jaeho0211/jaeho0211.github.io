@@ -23,3 +23,9 @@ I am a Postdoctoral Scholar in [Arbabian Lab](https://arbabianlab.stanford.edu) 
 I completed my Ph.D/M.S. at EE, [**POSTECH**](https://eee.postech.ac.kr), Korea (advised by Prof. Kyung-Tae Kim). I did my B.S. at CS, [**Korea University**](https://cs.korea.edu/en_cs/index.do), Korea.
 
 My research interests lie in **Wireless Sensing with Machine Learning**, including RF-based localization, crowd counting, contactless health monitoring, and SAR-based perception. I am also interested in the **Computer Vision** and **Sensor Fusion** algorithms.
+
+**Contact**
+<jhochoi [at] stanford.edu>  
+<gogoho77 [at] gmail.com>  
+
+[CV](https://jhchoi93.github.io/assets/pdf/CV_Jae-Ho-Choi.pdf) / [Google Scholar](https://scholar.google.com/citations?user=ywDewK4AAAAJ%2526hl=en) / [Github](https://github.com/gogoho88)
