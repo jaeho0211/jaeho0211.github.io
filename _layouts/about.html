@@ -43,8 +43,26 @@ layout: default
             {{ content }}
           </div>
           <br>
-
+          
           <!-- Research Experience -->
+          <div class="clearfix">
+            <table>
+              <tr>
+                <td>Apr. 2023 - Present</td>
+                <td>
+                  Stanford University, Stanford, CA<br>
+                  Postdoctoral Scholar (PI: Amin Arbabian)
+                </td>
+              </tr>
+              <tr>
+                <td>Apr. 2023 - Apr. 2022</td>
+                <td>POSTECH</td>
+              </tr>
+            </table>
+          </div>
+          <br>
+
+          <!-- Academic Services -->
           <div class="clearfix">
             <h2><b>Academic Services</b></h2>
             <h5><b>Conference Reviewer</b></h5>
@@ -63,11 +81,6 @@ layout: default
             <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;"><b>News</b></a></h2>
             {%- include news.html limit=true %}
           {%- endif %}
-          <br>
-
-          <!-- Experience -->
-          <h2><a href="{{ '/experience/' | relative_url }}" style="color: inherit;"><b>Experience</b></a></h2>
-          {%- include experience.html limit=true %}
           <br>
 
           <!-- Latest posts -->
