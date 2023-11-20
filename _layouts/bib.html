@@ -65,7 +65,7 @@
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
-            <strong><em>{{author.first}} {{author.last}}</em></strong>
+            <strong>{{author.first}} {{author.last}}</strong>
           {%- else -%}
             {%- if coauthor_url -%}
               <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
@@ -122,7 +122,7 @@
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}
         {%- if entry.papabbr -%}
-          {%- capture entrypapabbr -%}{{ " " }}<strong>{{ entry.papabbr}}</strong>{%- endcapture -%}
+          {%- capture entrypapabbr -%}{{ " " }}<strong><em>{{ entry.papabbr}}</em></strong>{%- endcapture -%}
         {%- endif -%}
         {%- if entry.month -%}
           {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
