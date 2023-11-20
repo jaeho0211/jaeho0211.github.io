@@ -28,4 +28,4 @@ My research interests lie in **Wireless Sensing with Machine Learning**, includi
 jhochoi [at] stanford.edu  
 gogoho77 [at] gmail.com  
 
-[CV](https://jhchoi93.github.io/assets/pdf/CV_Jae-Ho-Choi.pdf) / [Google Scholar](https://scholar.google.com/citations?user=ywDewK4AAAAJ%2526hl=en) / [Github](https://github.com/gogoho88)
+[CV](https://jhchoi93.github.io/assets/pdf/CV_Jae-Ho-Choi.pdf) / [Google Scholar](https://scholar.google.com/citations?user=ywDewK4AAAAJ&hl=en) / [Github](https://github.com/gogoho88)
