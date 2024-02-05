@@ -22,7 +22,7 @@ I am a Postdoctoral Scholar at <a href='https://ee.stanford.edu'><b>Stanford Uni
 
 I completed my PhD and MS in Electrical Engineering, at <a href='https://eee.postech.ac.kr'><b>POSTECH</b></a>, advised by <a href='http://iras.postech.ac.kr/main/eng.php'><b>Prof. Kyung-Tae Kim</b></a>. Before that, I did my undergraduate studies in Computer Science at <a href='https://info.korea.edu/en_info/index.do'><b>Korea University</b></a>.
 
-My research interests lie in **Wireless Sensing with Machine Learning**, including RF-based localization, crowd counting, contactless health monitoring, and SAR-based perception. I am also interested in the **Computer Vision** and **Sensor Fusion** algorithms.
+My research interests lie in **Wireless Sensing with Machine Learning**, including intelligent radar signal processing, RF-based localization, crowd counting, contactless health monitoring, and SAR-based perception. I am also interested in the **Computer Vision** and **Sensor Fusion** algorithms.
 
 **Contact**<br>
 jhochoi [at] stanford.edu  
